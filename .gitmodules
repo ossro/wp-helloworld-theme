@@ -1,0 +1,3 @@
+[submodule "wp-updatr"]
+	path = wp-updatr
+	url = https://github.com/ossro/wp-updatr
